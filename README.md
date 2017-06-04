@@ -1,4 +1,4 @@
-# QPro Quasar
+# QProb Quasar
 
 ![App](/media/app.png)
 
